@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Diretório de saída da compilação
+dist/
+
+# Arquivos de logs
+*.log
+
+# Sistema de cache do TypeScript
+*.tsbuildinfo
+
+# Configurações do ambiente
+.env
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de saída da compilação do TypeScript
+dist/
+build/
+
+# Informações de compilação incremental
+*.tsbuildinfo
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo sistema operacional
+*.tmp
+*.temp
+*.bak
+
+# Arquivos de backup do editor
+*.swp
+*.swo
